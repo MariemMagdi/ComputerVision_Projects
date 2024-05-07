@@ -1,6 +1,6 @@
 <div id = 'top'></div>
 
-# ComputerVision_Toolkit 💻
+# ComputerVision_Projects 💻
 
 ### Desktop application that implements computer vision concepts.
 
